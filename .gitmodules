@@ -1,0 +1,9 @@
+[submodule "Statiq.Framework"]
+	path = Statiq.Framework
+	url = https://github.com/statiqdev/Statiq.Framework.git
+[submodule "Statiq.Web"]
+	path = Statiq.Web
+	url = https://github.com/statiqdev/Statiq.Web.git
+[submodule "Statiq.Docs"]
+	path = Statiq.Docs
+	url = https://github.com/statiqdev/Statiq.Docs.git
