@@ -1,0 +1,7 @@
+<Project>
+    <PropertyGroup>
+        <!-- The NuGet version of Statiq.Web and Statiq.Framework (for the CodeAnalysis extension) that should be referenced, or empty to use local references -->
+        <StatiqWebVersion></StatiqWebVersion>
+        <StatiqFrameworkVersion></StatiqFrameworkVersion>
+    </PropertyGroup>
+</Project>

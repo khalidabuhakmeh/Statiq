@@ -3,4 +3,6 @@
 
 !.gitignore
 !.gitmodules
+!.idea/
 !README.md
+!Statiq.sln
