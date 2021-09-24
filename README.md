@@ -1,0 +1,1 @@
+﻿This is a consolidated repository of code Statiq projects via submodules.
