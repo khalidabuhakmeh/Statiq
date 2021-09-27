@@ -7,3 +7,6 @@
 [submodule "Statiq.Docs"]
 	path = Statiq.Docs
 	url = https://github.com/statiqdev/Statiq.Docs.git
+[submodule "statiqdev.github.io"]
+	path = statiqdev.github.io
+	url = ../statiqdev.github.io.git
