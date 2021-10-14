@@ -6,3 +6,5 @@
 !.idea/
 !README.md
 !Statiq.sln
+!build.cmd
+!Directory.Build.props
